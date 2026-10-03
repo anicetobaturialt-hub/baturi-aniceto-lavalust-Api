@@ -353,3 +353,4 @@ npm run dev
 ```
 
 Login → Product list → Add / Edit / Delete → Logout. The app only talks to the API; it never connects to the database.
+php lava migrat
